@@ -13,5 +13,8 @@ public class GitDemo {
             System.out.println("nihao ");
         }
         System.out.println("java");
+
+
+        System.out.println("这是一个错误");
     }
 }

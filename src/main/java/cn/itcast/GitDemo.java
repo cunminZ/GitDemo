@@ -16,5 +16,8 @@ public class GitDemo {
 
 
         System.out.println("这是一个错误");
+
+
+        System.out.println("生成错误");
     }
 }

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d887a9fa-4705-4dab-84c4-d96d8caee3b6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/itcast/GitDemo.java" afterPath="$PROJECT_DIR$/src/main/java/cn/itcast/GitDemo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -288,7 +287,7 @@
       <option name="presentableId" value="Default" />
       <updated>1552212188513</updated>
       <workItem from="1552212189726" duration="493000" />
-      <workItem from="1552213010060" duration="86000" />
+      <workItem from="1552213010060" duration="135000" />
     </task>
     <task id="LOCAL-00001" summary="创建">
       <created>1552212544668</created>
@@ -304,11 +303,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552213058200</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="创建">
+      <created>1552213099979</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552213099980</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="579000" />
+    <option name="totallyTimeSpent" value="628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="871" y="34" width="1037" height="1039" extended-state="0" />

@@ -19,5 +19,8 @@ public class GitDemo {
 
 
         System.out.println("生成错误");
+
+
+        System.out.println("产生第一个冲突");
     }
 }
